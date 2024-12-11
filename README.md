@@ -260,7 +260,7 @@ Assignment operators
   h /= 4
   println(h) // 5
   h %= 3
-  println(h) // 1
+  println(h) // 2
  ```
     
 Logical operators    
